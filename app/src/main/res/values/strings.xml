@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">textzy</string>
+    <string-array name="hero_array">
+      <item>Iron man</item>
+        <item>Spider Man</item>
+      <item>Black Panther</item>
+      <item>Ant Man</item>
+        <item>Doctor Strange</item>
+      <item>Hawk Eye</item>
+      <item>Black Widow</item>
+      <item>Captain America</item>
+      <item>Groot</item>
+      <item>Gamora</item>
+      <item>Star Lord</item>
+          </string-array>
+    <string name="example_autocompletetextview">Example showing AutoCompleteTextView</string>
+    <string name="please_enter_something">Please enter something...</string>
+
+</resources>
